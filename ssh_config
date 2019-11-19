@@ -1,0 +1,5 @@
+# CAEN
+Host zzt
+  HostName login.engin.umich.edu
+  User zzt
+  Compression yes
